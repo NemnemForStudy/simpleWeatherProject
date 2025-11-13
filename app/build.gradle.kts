@@ -67,4 +67,8 @@ dependencies {
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     // Gson Converter (JSON 데이터 파싱을 위한 라이브러리)
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
+    // Coroutine Test
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.7.1")
+    testImplementation("junit:junit:4.13.2")
 }

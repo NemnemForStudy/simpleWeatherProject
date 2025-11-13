@@ -1,4 +1,7 @@
-package com.example.weatherapp.data.network
+package com.example.weatherapp.repository
+
+import com.example.weatherapp.model.WeatherResponse
+import com.example.weatherapp.service.WeatherSearvice
 
 /**
  * 날씨 데이터 소스를 추상화하는 리포지토리 인터페이스
@@ -30,8 +33,7 @@ interface WeatherRepository {
 class WeatherRepositoryImpl(
     private val weatherSearvice: WeatherSearvice
 ) : WeatherRepository {
-    // TODO: 실제 OpenWeatherMap에서 발급받은 API 키 넣어야 함.
-    private val apiKey = ""
+    private val apiKey = "d9a08c8def42bc7551ffe799bb36762b"
 
     override suspend fun getWeather(cityName: String): WeatherResponse? {
         // 네트워크 요청 중 발생할 수 있는 예외 처리위해 try- catch
