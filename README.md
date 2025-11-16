@@ -1,9 +1,6 @@
 🚀 MyAwesomeProject
-안드로이드 공부를 위해 만든 간단한 날씨 어플입니다.
-OpenWeather API를 활용해 현재 날씨 정보를 제공합니다.
-
-<br/> <p align="left"> <img src="https://img.shields.io/badge/version-1.0.0-blue" /> <img src="https://img.shields.io/badge/license-MIT-green" /> <img src="https://img.shields.io/badge/build-passing-brightgreen" /> </p>
-
+* 안드로이드 공부를 위해 만든 간단한 날씨 어플입니다.
+* OpenWeather API를 활용해 현재 날씨 정보를 제공합니다.
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
