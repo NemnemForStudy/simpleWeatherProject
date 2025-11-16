@@ -7,11 +7,11 @@
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## 📱 Screenshots
-** 날씨 기초 화면 **
-<img width="250" alt="날씨 검색" src="https://github.com/user-attachments/assets/c57d0fbb-58a8-492e-ad7d-9804daf27869" />
+### 🌤️ 날씨 기초 화면
+<img width="250" alt="날씨 기초 화면" src="https://github.com/user-attachments/assets/c57d0fbb-58a8-492e-ad7d-9804daf27869" />
 
-** 날씨 검색 **
-<img width="250" alt="날씨 기초 화면" src="https://github.com/user-attachments/assets/93e10ba8-23ce-4890-a0d6-b477ac391fc3" />
+### 🔍 날씨 검색
+<img width="250" alt="날씨 검색" src="https://github.com/user-attachments/assets/93e10ba8-23ce-4890-a0d6-b477ac391fc3" />
 
 ## ✨ Features(기능)
 * 현재 날씨 조회
